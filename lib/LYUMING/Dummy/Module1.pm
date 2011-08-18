@@ -1,6 +1,6 @@
 package SHARYANTO::Dummy::Module1;
 BEGIN {
-  $SHARYANTO::Dummy::Module1::VERSION = '0.01';
+  $SHARYANTO::Dummy::Module1::VERSION = '0.02';
 }
 
 sub from_dist3 {
@@ -18,7 +18,7 @@ SHARYANTO::Dummy::Module1 - Dummy dist to test PAUSE indexing, add functions to 
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 AUTHOR
 

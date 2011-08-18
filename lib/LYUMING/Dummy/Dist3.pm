@@ -1,6 +1,6 @@
 package LYUMING::Dummy::Dist3;
 BEGIN {
-  $LYUMING::Dummy::Dist3::VERSION = '0.01';
+  $LYUMING::Dummy::Dist3::VERSION = '0.02';
 }
 
 # VERSION
@@ -17,7 +17,7 @@ LYUMING::Dummy::Dist3 - Dummy dist to test PAUSE indexing
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 AUTHOR
 

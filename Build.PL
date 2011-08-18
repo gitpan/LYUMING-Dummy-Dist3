@@ -17,7 +17,7 @@ my %module_build_args = (
     '梁宇明 <yuming888@yahoo.co.id>'
   ],
   'dist_name' => 'LYUMING-Dummy-Dist3',
-  'dist_version' => '0.01',
+  'dist_version' => '0.02',
   'license' => 'perl',
   'module_name' => 'LYUMING::Dummy::Dist3',
   'recommends' => {},
